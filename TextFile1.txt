@@ -1,1 +1,2 @@
 This is the text of text file 1.
+Making changes.
