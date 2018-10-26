@@ -4,5 +4,6 @@ public class Test
   public static GetDetails
   {
       System.Out.Println(name);
+    System.Out.Println("Hello");
   }
 }
